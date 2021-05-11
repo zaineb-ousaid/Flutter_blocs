@@ -1,0 +1,6 @@
+package com.tp.contacts_bloc;
+
+import io.flutter.embedding.android.FlutterActivity;
+
+public class MainActivity extends FlutterActivity {
+}
